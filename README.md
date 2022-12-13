@@ -18,17 +18,17 @@ Birth date, gender, current premium, and indicated premium
 
 ## Methodology
 
--Libraries: Pandas, Matplotlib, NumPy, Datetime
--Data aggregation with the median 
--Data binning and grouping
+-Libraries: Pandas, Matplotlib, NumPy, Datetime \
+-Data aggregation with the median \
+-Data binning and grouping \
 -Line graph, bar chart, pie graph, scatter plot, correlation factor
 
 
 ## Conclusions
 
--Auto insurance premiums can both vary and trend by age. 
--Auto insurance premiums can both vary and trend by gender. 
--Using the new loss model, the indicated premium tended to be lower for older age groups and higher for younger age groups. 
+-Auto insurance premiums can both vary and trend by age.\
+-Auto insurance premiums can both vary and trend by gender.\
+-Using the new loss model, the indicated premium tended to be lower for older age groups and higher for younger age groups.\ 
 
 ## Acknowledgements
 
