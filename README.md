@@ -28,7 +28,7 @@ Birth date, gender, current premium, and indicated premium
 
 -Auto insurance premiums can both vary and trend by age.\
 -Auto insurance premiums can both vary and trend by gender.\
--Using the new loss model, the indicated premium tended to be lower for older age groups and higher for younger age groups.\ 
+-Using the new loss model, the indicated premium tended to be lower for older age groups and higher for younger age groups.
 
 ## Acknowledgements
 
